@@ -1,15 +1,15 @@
 ## Historias de Usuario
 
-### Medicos y personal de la salud
+### Médicos y personal de la salud
 
 ### Usuario 1
 
-#### Titulo: Información agenda de vacunación
+#### Título: Información agenda de vacunación
 
 #### Narrativa:
 
 - Como médico/personal de la salud
-- Quiero poder visualizar la informacion de las agendas de vacunación
+- Quiero poder visualizar la información de las agendas de vacunación
 - Para poder hacer una predicción de cuantas personas se presentaran para darse una dosis de la vacuna.
 
 ### Usuario 2
@@ -19,22 +19,22 @@
 #### Narrativa:
 
 - Como médico/personal de la salud
-- Quiero poder visualizar la informacion de los casos actuales y totales de Covid-19
+- Quiero poder visualizar la información de los casos actuales y totales de Covid-19
 - Para poder hacer una predicción de cuantos casos nuevos pueden haber y asi poder asignar al personal que debe estar preparado para un aumento.
 
 ### Usuario 3
 
-#### Titulo: Prevención de vacunas
+#### Título: Prevención de vacunas
 
 #### Narrativa:
 
 - Como médico/personal de la salud
-- Quiero poder visualizar la informacion de las agendas de vacunación
+- Quiero poder visualizar la información de las agendas de vacunación
 - Para poder hacer una predicción de cuantas dosis de vacunas poder encargar preventinamente.
 
 ### Usuario 4
 
-#### Titulo: Información general
+#### Título: Información general
 
 #### Narrativa:
 
@@ -48,7 +48,7 @@
 
 ### Usuario 1
 
-#### Titulo: Agenda de vacunación
+#### Título: Agenda de vacunación
 
 #### Narrativa:
 
@@ -58,7 +58,7 @@
 
 ### Usuario 2
 
-#### Titulo: Informacion situacion del país
+#### Título: Información situación del país
 
 #### Narrativa:
 
@@ -68,7 +68,7 @@
 
 ### Usuario 3
 
-#### Titulo: Informacion sintomas de la enfermedad
+#### Título: Información sintomas de la enfermedad
 
 #### Narrativa:
 
@@ -78,7 +78,7 @@
 
 ### Usuario 4
 
-#### Titulo: Informacion contagios en una zona
+#### Título: Información contagios en una zona
 
 #### Narrativa:
 
@@ -88,24 +88,24 @@
 
 ---
 
-### Gobieron
+### Gobierno
 
 ### Usuario 1
 
-#### Titulo: Informacion general de la situacion del país
+#### Título: Información general de la situación del país
 
 #### Narrativa:
 
 - Como integrante del gobierno
-- Quiero poder ver la situacion general del pais
-- Para poder acudir a esta infromcaion a la hora de tomar decisiones.
+- Quiero poder ver la situación general del pais
+- Para poder acudir a esta información a la hora de tomar decisiones.
 
 ### Usuario 2
 
-#### Titulo: Informar a los ciudadanos
+#### Título: Informar a los ciudadanos
 
 #### Narrativa:
 
 - Como integrante del gobierno
-- Quiero poder agregar informacion a la aplicacion
-- Para tener un metodo practico de informar a la poblacion de medidas y sus resposabilidades.
+- Quiero poder agregar información a la aplicación
+- Para tener un método practico de informar a la población de medidas y sus resposabilidades.
