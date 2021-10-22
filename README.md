@@ -30,6 +30,8 @@ Para realizar esta entrega, se utilizó las herramientas recomendadas en clase, 
 <br>
 Link al tablero de la iteración 2: https://trello.com/invite/b/4WK1LkXr/bfe4acb83e845cd6d25844de660908b6/iteraci%C3%B3n-2
 <br>
+Link al documento de Miro de la iteración 2: https://miro.com/app/board/o9J_lo8C3tk=/?invite_link_id=829129458664
+<br>
 La carpeta Iteracion2 contiene el resultado del trabajo en esta segunda iteración, incluyendo la siguiente lista de archivos:
 
 ### [Iteracion2_SprintPlanning.pdf](./Iteracion2/Iteracion2_SprintPlanning.pdf)
@@ -50,4 +52,11 @@ Este archivo contiene los prototipos realizados en el archivo de balsamiq para v
 ### [Iteracion2_UserStoriesTrello.pptx](./Iteracion2/Iteracion2_UserStoriesTrello.pptx)
 Este archivo contiene captura de las historias de usuario en el tablero sustentable de trello cuando se llegó a completar todas las tareas de las historias de usuario.
 
+### [Iteracion2_FullTrelloBoard.pptx](./Iteracion2/Iteracion2_FullTrelloBoard.pptx)
+Este archivo contiene capturas del progreso y evolución del taskboard completo de trello, además del contenido de las notas y tarjetas que no son mostradas en otros documentos.
 
+### [Iteracion2_SprintReview.pdf](./Iteracion2/Iteracion2_SprintReview.pdf)
+Este archivo contiene lo discutido sobre el producto de la iteración y la conclusión de la ceremonia "Sprint Review" además de los roles cada cada miembro del equipo tomó en esta ceremonia.
+
+### [Iteracion2_SprintRetrospective.pdf](./Iteracion2/Iteracion2_SprintRetrospective.pdf)
+Este archivo contiene lo discutido en la ceremonia "Sprint Retrospective" sobre las áreas en las cuales el equipo puede mejorar, siguiendo el formato DAKi (Drop, Add, Keep, Improve), los roles que cada miembro del equipo asumió en esta ceremonia y captura del documento de Miro.
