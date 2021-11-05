@@ -77,10 +77,10 @@ Este archivo contiene la información sobre la planificación, incluyendo los ro
 ### [Iteracion3_DefinitionOfDone.pdf](./Iteracion3/Iteracion3_DefinitionOfDone.pdf)
 Este archivo contiene la definición del equipo para completar un item del sprint backlog y la iteración en si.
 
-### [Iteracion3_UserStorySpecification.pdf](./Iteracion3/Iteracion3_UserStorySpecification.pdf)
+### [Iteracion3_UserStorySpecification.docx](./Iteracion3/Iteracion3_UserStorySpecification.docx)
 Este archivo contiene todas las historias de usuario contenidas en el sprint backlog con la información que fue escrita en ellas en las tarjetas de trello además de la información de los requerimientos no funcionales realizados en esta iteración.
 
-### [Iteracion3_Prototype.bmpr](./Iteracion2/Iteracion3_Prototype.bmpr)
+### [Iteracion3_Prototype.bmpr](./Iteracion3/Iteracion3_Prototype.bmpr)
 Este archivo de balsamiq contiene un prototipo de la aplicación que permite moverse desde el menu principal entre historias de usuario y sus escenarios como si fuese la aplicación real.
 
 ### [Iteracion3_BalsamiqPrototypes.pdf](./Iteracion3/Iteracion3_BalsamiqPrototypes.pdf)
@@ -89,11 +89,11 @@ Este archivo contiene los prototipos realizados en el archivo de balsamiq de est
 ### [Iteracion3_UserStoriesTrello.pptx](./Iteracion3/Iteracion3_UserStoriesTrello.pptx)
 Este archivo contiene captura de las historias de usuario en el tablero sustentable de trello cuando se paso a la etapa de las ceremonias de Sprint Review y Retrospective.
 
-### [Iteracion3_FullTrelloBoard.pptx](./Iteracion3/Iteracion3_FullTrelloBoard.pptx)
-Este archivo contiene capturas del progreso y evolución del taskboard completo de trello, además del contenido de las notas y tarjetas que no son mostradas en otros documentos.
+### [Iteracion3_FullTrelloTaskBoard.pptx](Iteracion3\Iteracion3_FullTrelloTaskBoard.pptx)
+Este archivo contiene capturas del progreso y evolución del taskboard completo de trello, además del contenido de las notas.
 
-### [Iteracion2_SprintReview.pdf](./Iteracion2/Iteracion2_SprintReview.pdf)
+### [Iteracion3_SprintReview.pdf](./Iteracion3/Iteracion3_SprintReview.pdf)
 Este archivo contiene lo discutido sobre el producto de la iteración y la conclusión de la ceremonia "Sprint Review" además de los roles cada cada miembro del equipo tomó en esta ceremonia.
 
-### [Iteracion2_SprintRetrospective.pdf](./Iteracion2/Iteracion2_SprintRetrospective.pdf)
-Este archivo contiene lo discutido en la ceremonia "Sprint Retrospective" sobre las áreas en las cuales el equipo puede mejorar, siguiendo el formato DAKi (Drop, Add, Keep, Improve), los roles que cada miembro del equipo asumió en esta ceremonia y captura del documento de Miro.
+### [Iteracion3_SprintRetrospective.pdf](./Iteracion3/Iteracion3_SprintRetrospective.pdf)
+Este archivo contiene lo discutido en la ceremonia "Sprint Retrospective" sobre las áreas en las cuales el equipo puede mejorar, siguiendo el documento indicando en clase que incluye lean coffee, los roles que cada miembro del equipo asumió en esta ceremonia y capturas del documento de Miro.
