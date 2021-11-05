@@ -60,3 +60,40 @@ Este archivo contiene lo discutido sobre el producto de la iteración y la concl
 
 ### [Iteracion2_SprintRetrospective.pdf](./Iteracion2/Iteracion2_SprintRetrospective.pdf)
 Este archivo contiene lo discutido en la ceremonia "Sprint Retrospective" sobre las áreas en las cuales el equipo puede mejorar, siguiendo el formato DAKi (Drop, Add, Keep, Improve), los roles que cada miembro del equipo asumió en esta ceremonia y captura del documento de Miro.
+
+---
+## Iteración 3
+Para realizar esta entrega, se utilizó las herramientas recomendadas en clase, siendo estas trello, powerpoint para mostrar en github el estado de las tablas en trello, balsamiq para realizar los prototipos y miro para la sprint retrospective.
+<br>
+Link al tablero de la iteración 3: https://trello.com/invite/b/d8ULQ7EP/74ad705ac2e134f672c832e1dd725aaf/iteraci%C3%B3n-3
+<br>
+Link al documento de Miro de la iteración 3: https://miro.com/app/board/o9J_llL1mek=/
+<br>
+La carpeta Iteracion3 contiene el resultado del trabajo en esta segunda iteración, incluyendo la siguiente lista de archivos:
+
+### [Iteracion3_SprintPlanning.pdf](./Iteracion3/Iteracion3_SprintPlanning.pdf)
+Este archivo contiene la información sobre la planificación, incluyendo los roles de los miembros del equipo, el esfuerzo y duración de las etapas estimado, los objetivos de la iteración, la capacidad de trabajo esperada y detalles sobre como se esperaba trabajar con trello en esta iteración.
+
+### [Iteracion3_DefinitionOfDone.pdf](./Iteracion3/Iteracion3_DefinitionOfDone.pdf)
+Este archivo contiene la definición del equipo para completar un item del sprint backlog y la iteración en si.
+
+### [Iteracion3_UserStorySpecification.pdf](./Iteracion3/Iteracion3_UserStorySpecification.pdf)
+Este archivo contiene todas las historias de usuario contenidas en el sprint backlog con la información que fue escrita en ellas en las tarjetas de trello además de la información de los requerimientos no funcionales realizados en esta iteración.
+
+### [Iteracion3_Prototype.bmpr](./Iteracion2/Iteracion3_Prototype.bmpr)
+Este archivo de balsamiq contiene un prototipo de la aplicación que permite moverse desde el menu principal entre historias de usuario y sus escenarios como si fuese la aplicación real.
+
+### [Iteracion3_BalsamiqPrototypes.pdf](./Iteracion3/Iteracion3_BalsamiqPrototypes.pdf)
+Este archivo contiene los prototipos realizados en el archivo de balsamiq de esta iteración para visualizarlos sin necesidad de utilizar el programa de balsamiq.
+
+### [Iteracion3_UserStoriesTrello.pptx](./Iteracion3/Iteracion3_UserStoriesTrello.pptx)
+Este archivo contiene captura de las historias de usuario en el tablero sustentable de trello cuando se paso a la etapa de las ceremonias de Sprint Review y Retrospective.
+
+### [Iteracion3_FullTrelloBoard.pptx](./Iteracion3/Iteracion3_FullTrelloBoard.pptx)
+Este archivo contiene capturas del progreso y evolución del taskboard completo de trello, además del contenido de las notas y tarjetas que no son mostradas en otros documentos.
+
+### [Iteracion2_SprintReview.pdf](./Iteracion2/Iteracion2_SprintReview.pdf)
+Este archivo contiene lo discutido sobre el producto de la iteración y la conclusión de la ceremonia "Sprint Review" además de los roles cada cada miembro del equipo tomó en esta ceremonia.
+
+### [Iteracion2_SprintRetrospective.pdf](./Iteracion2/Iteracion2_SprintRetrospective.pdf)
+Este archivo contiene lo discutido en la ceremonia "Sprint Retrospective" sobre las áreas en las cuales el equipo puede mejorar, siguiendo el formato DAKi (Drop, Add, Keep, Improve), los roles que cada miembro del equipo asumió en esta ceremonia y captura del documento de Miro.
