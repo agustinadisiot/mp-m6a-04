@@ -109,6 +109,12 @@ Este archivo contiene la información sobre la planificación, incluyendo los ro
 ### [Iteracion4_DefinitionOfDone.pdf](./Iteracion4/Iteracion4_DefinitionOfDone.pdf)
 Este archivo contiene la definición del equipo para completar los elementos de esta iteración en particular, siendo estos el informe académico y el video del prototipo.
 
+### [Iteracion4_InformeAcademico.pdf](./Iteracion4/Iteracion4_InformeAcademico.pdf)
+Este archivo contiene el informe académico esperado de esta iteración, en el cual se trabaja una reflexión en formato DAKI de todo el proyecto, se resume esto a lecciones aprendidas, se describe que se menciona en el video demo del prototipo y se da una conclusión al proyecto con respecto a objetivos y lo logrado.
+
+### [Video demo del prototipo en Microsoft Webstream](https://web.microsoftstream.com/video/bdc6e30c-6579-4df4-b507-b7b1c99b506f)
+Este video informa sobre los objetivos del producto siendo este el prototipo y se da un tutorial o demo recorriendo las diferentes ventanas o wireframes interactuables.
+
 ### [Iteracion4_TasksSpecification.docx](./Iteracion4/Iteracion4_TasksSpecification.docx)
 Este archivo contiene todas las tareas realizadas en el sprint con la información que fue escrita en ellas en las tarjetas de trello en formato word. Este documento lo incluimos ya que al no haber historias de usuario, solamente se puede documentar las tareas.
 
