@@ -89,11 +89,43 @@ Este archivo contiene los prototipos realizados en el archivo de balsamiq de est
 ### [Iteracion3_UserStoriesTrello.pptx](./Iteracion3/Iteracion3_UserStoriesTrello.pptx)
 Este archivo contiene captura de las historias de usuario en el tablero sustentable de trello cuando se paso a la etapa de las ceremonias de Sprint Review y Retrospective.
 
-### [Iteracion3_FullTrelloTaskBoard.pptx](Iteracion3\Iteracion3_FullTrelloTaskBoard.pptx)
+### [Iteracion3_FullTrelloTaskBoard.pptx](./Iteracion3/Iteracion3_FullTrelloTaskBoard.pptx)
 Este archivo contiene capturas del progreso y evolución del taskboard completo de trello, además del contenido de las notas.
 
 ### [Iteracion3_SprintReview.pdf](./Iteracion3/Iteracion3_SprintReview.pdf)
 Este archivo contiene lo discutido sobre el producto de la iteración y la conclusión de la ceremonia "Sprint Review" además de los roles cada cada miembro del equipo tomó en esta ceremonia.
 
 ### [Iteracion3_SprintRetrospective.pdf](./Iteracion3/Iteracion3_SprintRetrospective.pdf)
+Este archivo contiene lo discutido en la ceremonia "Sprint Retrospective" sobre las áreas en las cuales el equipo puede mejorar, siguiendo el documento indicando en clase que incluye lean coffee, los roles que cada miembro del equipo asumió en esta ceremonia y capturas del documento de Miro.
+
+---
+## Iteración 4
+Para realizar esta entrega, se utilizó las herramientas recomendadas en clase, siendo estas trello, powerpoint para mostrar en github el estado de las tablas en trello, balsamiq para mostrar los prototipos y miro para la sprint retrospective. Además utilizamos la plataforma de Microsoft WebStream para subir el video del prototipo.
+<br>
+
+### [Iteracion4_SprintPlanning.pdf](./Iteracion4/Iteracion4_SprintPlanning.pdf)
+Este archivo contiene la información sobre la planificación, incluyendo los roles de los miembros del equipo, el esfuerzo y duración de las etapas estimado, los objetivos de la iteración, la capacidad de trabajo esperada y detalles sobre como se esperaba trabajar con trello en esta iteración.
+
+### [Iteracion4_DefinitionOfDone.pdf](./Iteracion4/Iteracion4_DefinitionOfDone.pdf)
+Este archivo contiene la definición del equipo para completar los elementos de esta iteración en particular, siendo estos el informe académico y el video del prototipo.
+
+### [Iteracion4_InformeAcademico.pdf](./Iteracion4/Iteracion4_InformeAcademico.pdf)
+Este archivo contiene el informe académico esperado de esta iteración, en el cual se trabaja una reflexión en formato DAKI de todo el proyecto, se resume esto a lecciones aprendidas, se describe que se menciona en el video demo del prototipo y se da una conclusión al proyecto con respecto a objetivos y lo logrado.
+
+### [Video demo del prototipo en Microsoft Webstream](https://web.microsoftstream.com/video/bdc6e30c-6579-4df4-b507-b7b1c99b506f)
+Este video informa sobre los objetivos del producto siendo este el prototipo y se da un tutorial o demo recorriendo las diferentes ventanas o wireframes interactuables.
+
+### [Iteracion4_TasksSpecification.docx](./Iteracion4/Iteracion4_TasksSpecification.docx)
+Este archivo contiene todas las tareas realizadas en el sprint con la información que fue escrita en ellas en las tarjetas de trello en formato word. Este documento lo incluimos ya que al no haber historias de usuario, solamente se puede documentar las tareas.
+
+### [Iteracion4_TaskSpecification.pptx](./Iteracion4/Iteracion4_TaskSpecification.pptx)
+Este archivo contiene todas las tareas realizadas en el sprint con la información que fue escrita en ellas en las tarjetas de trello en formato powerpoint para comparar con el archivo bajo similar nombre en word. Además incluye el contenido de las tarjetas de Notes, Sprint Review y Sprint Retrospective.
+
+### [Iteracion4_FullTrelloTaskBoard.pptx](./Iteracion4/Iteracion4_FullTrelloTaskBoard.pptx)
+Este archivo contiene capturas del progreso y evolución del taskboard completo de trello.
+
+### [Iteracion4_SprintReview.pdf](./Iteracion4/Iteracion4_SprintReview.pdf)
+Este archivo contiene lo discutido sobre el producto de la iteración y la conclusión de la ceremonia "Sprint Review" además de los roles cada cada miembro del equipo tomó en esta ceremonia.
+
+### [Iteracion4_SprintRetrospective.pdf](./Iteracion4/Iteracion4_SprintRetrospective.pdf)
 Este archivo contiene lo discutido en la ceremonia "Sprint Retrospective" sobre las áreas en las cuales el equipo puede mejorar, siguiendo el documento indicando en clase que incluye lean coffee, los roles que cada miembro del equipo asumió en esta ceremonia y capturas del documento de Miro.
